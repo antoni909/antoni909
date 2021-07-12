@@ -73,7 +73,7 @@ My goal as an aspiring professional in Software Development is to continue to gr
       height="40"
       style="vertical-align:top; margin:4px">  
     <img
-      src="icons/mongodb.jpg"
+      src="icons/mongodb.png"
       alt="heroku"
       height="40"
       style="vertical-align:top; margin:4px">
