@@ -13,72 +13,72 @@ My goal as an aspiring professional in Software Development is to continue to gr
 <div>
   <p align="center">
     <img
-      src="/icons/google.png"
+      src="icons/google.png"
       alt="Google"
       height="40"
       style="vertical-align:top; margin:4px">
     <img
-      src="/icons/vscode.png"
+      src="icons/vscode.png"
       alt="VS-Editor"
       height="40"
       style="vertical-align:top; margin:4px">
     <img
-      src="/icons/html.png"
+      src="icons/html.png"
       alt="html"
       height="40"
       style="vertical-align:top; margin:4px">
     <img
-      src="/icons/css.png"
+      src="icons/css.png"
       alt="css"
       height="40"
       style="vertical-align:top; margin:4px">
     <img
-      src="/icons/js.png"
+      src="icons/js.png"
       alt="Javascript"
       height="40"
       style="vertical-align:top; margin:4px">
     <img
-      src="/icons/react.png"
+      src="icons/react.png"
       alt="react"
       height="40"
       style="vertical-align:top; margin:4px">
     <img
-      src="/icons/bootstrap.png"
+      src="icons/bootstrap.png"
       alt="React-Bootstrap"
       height="40"
       style="vertical-align:top; margin:4px">
     <img
-      src="/icons/npm.png"
+      src="icons/npm.png"
       alt="npm"
       height="40"
       style="vertical-align:top; margin:4px">
     <img
-      src="/icons/git.png"
+      src="icons/git.png"
       alt="git"
       height="40"
       style="vertical-align:top; margin:4px">
     <img
-      src="/icons/node-js.png"
+      src="icons/node-js.png"
       alt="node.js"
       height="40"
       style="vertical-align:top; margin:4px">
     <img
-      src="/icons/heroku.png"
+      src="icons/heroku.png"
       alt="heroku.js"
       height="40"
       style="vertical-align:top; margin:4px">
     <img
-      src="/icons/netlify.png"
+      src="icons/netlify.png"
       alt="netlify"
       height="40"
       style="vertical-align:top; margin:4px">  
     <img
-      src="/icons/mongodb.jpg"
+      src="icons/mongodb.jpg"
       alt="heroku"
       height="40"
       style="vertical-align:top; margin:4px">
     <img
-      src="/icons/postgresql-logo.png"
+      src="icons/postgresql-logo.png"
       alt="PostgresQL"
       height="40"
       style="vertical-align:top; margin:4px">
