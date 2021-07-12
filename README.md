@@ -10,75 +10,77 @@ My goal as an aspiring professional in Software Development is to continue to gr
 
 ## 🧰 Languages and Tools
 
-<p align="center">
-  <img
-    src="/icons/google.png"
-    alt="Google"
-    height="40"
-    style="vertical-align:top; margin:4px">
-  <img
-    src="/icons/vscode.png"
-    alt="VS-Editor"
-    height="40"
-    style="vertical-align:top; margin:4px">
-  <img
-    src="/icons/html.webp"
-    alt="html"
-    height="40"
-    style="vertical-align:top; margin:4px">
-  <img
-    src="/icons/css.png"
-    alt="css"
-    height="40"
-    style="vertical-align:top; margin:4px">
-  <img
-    src="/icons/js.png"
-    alt="Javascript"
-    height="40"
-    style="vertical-align:top; margin:4px">
-  <img
-    src="/icons/react.png"
-    alt="react"
-    height="40"
-    style="vertical-align:top; margin:4px">
-  <img
-    src="/icons/bootstrap.png"
-    alt="React-Bootstrap"
-    height="40"
-    style="vertical-align:top; margin:4px">
-  <img
-    src="/icons/npm.png"
-    alt="npm"
-    height="40"
-    style="vertical-align:top; margin:4px">
-  <img
-    src="/icons/git.png"
-    alt="git"
-    height="40"
-    style="vertical-align:top; margin:4px">
-  <img
-    src="/icons/node-js.png"
-    alt="node.js"
-    height="40"
-    style="vertical-align:top; margin:4px">
-  <img
-    src="/icons/heroku.png"
-    alt="heroku.js"
-    height="40"
-    style="vertical-align:top; margin:4px">
-  <img
-    src="/icons/netlify.png"
-    alt="netlify"
-    height="40"
-    style="vertical-align:top; margin:4px">  
-  <img
-    src="/icons/mongodb.jpg"
-    alt="heroku"
-    height="40"
-    style="vertical-align:top; margin:4px">
-  <img
-    src="/icons/postgresql-logo.png"
-    alt="PostgresQL"
-    height="40"
-    style="vertical-align:top; margin:4px">
-</p>
+<div>
+  <p align="center">
+    <img
+      src="/icons/google.png"
+      alt="Google"
+      height="40"
+      style="vertical-align:top; margin:4px">
+    <img
+      src="/icons/vscode.png"
+      alt="VS-Editor"
+      height="40"
+      style="vertical-align:top; margin:4px">
+    <img
+      src="/icons/html.webp"
+      alt="html"
+      height="40"
+      style="vertical-align:top; margin:4px">
+    <img
+      src="/icons/css.png"
+      alt="css"
+      height="40"
+      style="vertical-align:top; margin:4px">
+    <img
+      src="/icons/js.png"
+      alt="Javascript"
+      height="40"
+      style="vertical-align:top; margin:4px">
+    <img
+      src="/icons/react.png"
+      alt="react"
+      height="40"
+      style="vertical-align:top; margin:4px">
+    <img
+      src="/icons/bootstrap.png"
+      alt="React-Bootstrap"
+      height="40"
+      style="vertical-align:top; margin:4px">
+    <img
+      src="/icons/npm.png"
+      alt="npm"
+      height="40"
+      style="vertical-align:top; margin:4px">
+    <img
+      src="/icons/git.png"
+      alt="git"
+      height="40"
+      style="vertical-align:top; margin:4px">
+    <img
+      src="/icons/node-js.png"
+      alt="node.js"
+      height="40"
+      style="vertical-align:top; margin:4px">
+    <img
+      src="/icons/heroku.png"
+      alt="heroku.js"
+      height="40"
+      style="vertical-align:top; margin:4px">
+    <img
+      src="/icons/netlify.png"
+      alt="netlify"
+      height="40"
+      style="vertical-align:top; margin:4px">  
+    <img
+      src="/icons/mongodb.jpg"
+      alt="heroku"
+      height="40"
+      style="vertical-align:top; margin:4px">
+    <img
+      src="/icons/postgresql-logo.png"
+      alt="PostgresQL"
+      height="40"
+      style="vertical-align:top; margin:4px">
+  </p>
+</div>
