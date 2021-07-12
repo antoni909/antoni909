@@ -8,7 +8,7 @@ My goal as an aspiring professional in Software Development is to continue to gr
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/@antoni909)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/antoni909) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/lorenzo-ortega-antoni/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/avichu1992)![](https://visitor-badge.laobi.icu/badge?page_id=antoni909.antoni909)
 
-## 🧰 Languages and Tools
+## Languages and Tools
 
 <div>
   <p align="center">
