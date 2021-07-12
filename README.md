@@ -23,7 +23,7 @@ My goal as an aspiring professional in Software Development is to continue to gr
       height="40"
       style="vertical-align:top; margin:4px">
     <img
-      src="/icons/html.webp"
+      src="/icons/html.png"
       alt="html"
       height="40"
       style="vertical-align:top; margin:4px">
