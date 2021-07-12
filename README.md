@@ -82,3 +82,5 @@ My highest aspiration is to become a professional in the Tech Industry as a Soft
       height="40"
       style="vertical-align:top; margin:4px">
   </p>
+
+[](#blank)
