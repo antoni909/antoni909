@@ -4,15 +4,12 @@ My highest aspiration is to become a professional in the Tech Industry as a Soft
 
 🌱 I’m currently learning PERN Fullstack JavaScript Development at Code Fellows Tech Academy
 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/@antoni909) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/lorenzo-ortega-antoni/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/antoni909) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/avichu1992)
 ![Antoni's GitHub stats](https://github-readme-stats.vercel.app/api?username=antoni909&show_icons=true&theme=gotham&border_radius=25&custom_title=My%20Stats%20So-far)
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/avichu1992) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/antoni909) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/lorenzo-ortega-antoni/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/@antoni909)  
-
-![](https://visitor-badge.laobi.icu/badge?page_id=antoni909.antoni909) 
+![](https://visitor-badge.laobi.icu/badge?page_id=antoni909.antoni909)
 
 ## Languages and Tools
 
-<div>
   <p align="center">
     <img
       src="icons/google.png"
@@ -85,4 +82,3 @@ My highest aspiration is to become a professional in the Tech Industry as a Soft
       height="40"
       style="vertical-align:top; margin:4px">
   </p>
-</div>
