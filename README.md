@@ -48,7 +48,7 @@ My goal as an aspiring professional in Software Development is to continue to gr
       height="40"
       style="vertical-align:top; margin:4px">
     <img
-      src="icons/npm.png"
+      src="icons/npm.jpeg"
       alt="npm"
       height="40"
       style="vertical-align:top; margin:4px">
