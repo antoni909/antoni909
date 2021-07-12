@@ -12,21 +12,41 @@ My goal as an aspiring professional in Software Development is to continue to gr
 
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"
+    src="/icons/google.png"
+    alt="Google"
+    height="40"
+    style="vertical-align:top; margin:4px">
+  <img
+    src="/icons/vscode.png"
+    alt="VS-Editor"
+    height="40"
+    style="vertical-align:top; margin:4px">
+  <img
+    src="/icons/html.webp"
+    alt="html"
+    height="40"
+    style="vertical-align:top; margin:4px">
+  <img
+    src="/icons/css.png"
+    alt="css"
+    height="40"
+    style="vertical-align:top; margin:4px">
+  <img
+    src="/icons/js.png"
     alt="Javascript"
     height="40"
     style="vertical-align:top; margin:4px">
-    <img
+  <img
     src="/icons/react.png"
     alt="react"
     height="40"
     style="vertical-align:top; margin:4px">
-    <img
+  <img
     src="/icons/bootstrap.png"
     alt="React-Bootstrap"
     height="40"
     style="vertical-align:top; margin:4px">
-    <img
+  <img
     src="/icons/npm.png"
     alt="npm"
     height="40"
@@ -42,23 +62,23 @@ My goal as an aspiring professional in Software Development is to continue to gr
     height="40"
     style="vertical-align:top; margin:4px">
   <img
-  src="/icons/heroku.png"
-  alt="heroku.js"
-  height="40"
-  style="vertical-align:top; margin:4px">
+    src="/icons/heroku.png"
+    alt="heroku.js"
+    height="40"
+    style="vertical-align:top; margin:4px">
   <img
-  src="/icons/netlify.png"
-  alt="netlify"
-  height="40"
-  style="vertical-align:top; margin:4px">  
+    src="/icons/netlify.png"
+    alt="netlify"
+    height="40"
+    style="vertical-align:top; margin:4px">  
   <img
-  src="/icons/mongodb.jpg"
-  alt="heroku"
-  height="40"
-  style="vertical-align:top; margin:4px">
+    src="/icons/mongodb.jpg"
+    alt="heroku"
+    height="40"
+    style="vertical-align:top; margin:4px">
   <img
-  src="/icons/postgresql-logo.png"
-  alt="PostgresQL"
-  height="40"
-  style="vertical-align:top; margin:4px">
+    src="/icons/postgresql-logo.png"
+    alt="PostgresQL"
+    height="40"
+    style="vertical-align:top; margin:4px">
 </p>
