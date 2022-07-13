@@ -4,7 +4,11 @@
 
 📚 Learning TypeScript with React
 
-📚 Graduated CodeFellows Tech Academy where I studied Full Stack JavaScript Web Development and Mobile Development using React Native!!!
+## Education
+
+👨‍🎓  Graduated CodeFellows Tech Academy where I studied Full Stack JavaScript Web Development and Mobile Development using React Native!!!
+
+👨‍🎓  Graduated from Western Oregon University with BS Education (Integrated Science Concentration)
 
 ## About Me :D
 🌱 My greatest aspiration is to become a professional in the Tech Industry as a Software Developer. I continue to grow by being adaptive and malleable to new concepts and paradigms. My willingness to work in a team is paramount to my conceptual knowledge and growth. I want to be an effective and approachable developer that is always willing to teach those around me.
