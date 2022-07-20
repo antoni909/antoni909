@@ -1,10 +1,10 @@
-# Hola! 👋 Welcome to my Profile!
-
-## Visit my Personal [Portolio](https://antoni909.netlify.app/)
+# Hola! 👋 Welcome to my GitHub Profile!
 
 ## Current Interests
 
 📚 Learning TypeScript with React
+
+visit my [Personal Portolio](https://antoni909.netlify.app/)
 
 ## Education
 
