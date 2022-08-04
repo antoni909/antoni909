@@ -24,7 +24,7 @@ visit my [Personal Portolio](https://antoni909.netlify.app/)
   - urls, verbs,headers, status codes, JSON, network tab
 - get better at Git
   - branching, rebasing, cherry-picking
-- sematic HTML
+- semantic HTML
 - get better at TDD
   - testing outside-in, stubbing, 3rd-party
 - browser as a platform
