@@ -18,7 +18,7 @@ visit my [Personal Portolio](https://antoni909.netlify.app/)
 
 ## My Evergreen Skills
 
-🌱 Other than growing my JavaScript/TypeScript knowledge I hone in on other fundumental web developer skills
+🌱 Other than growing my JavaScript/TypeScript knowledge I hone in on other fundamental web developer skills
 
 - basics of HTTP: 
   - urls, verbs,headers, status codes, JSON, network tab
