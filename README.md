@@ -1,6 +1,10 @@
 # Hola! 👋 Welcome to my GitHub Profile!
 
-## Active Interests
+## Current Interests
+
+📚 Learning Java, JavaScript and AWS 
+
+## Ongoing Interests
 
 📚 Learning React with TypeScript
 
@@ -11,6 +15,8 @@ visit my latest project
 visit my [Personal Portolio](https://antoni909.netlify.app/)
 
 ## Education
+
+🏫 - TLG and Aprenti Software Development Engeneer
 
 👨‍🎓  Graduated CodeFellows Tech Academy where I studied Full Stack JavaScript Web Development and Mobile Development using React Native!!!
 
